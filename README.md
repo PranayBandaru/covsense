@@ -3,9 +3,6 @@
 [![Version](https://badge.fury.io/gh/saivittalb%2Fcovsense.svg)](https://badge.fury.io/gh/saivittalb%2FCovsense)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com) 
-[![GitHub followers](https://img.shields.io/github/followers/saivittalb.svg?style=social&label=Follow)](https://github.com/saivittalb?tab=followers) 
-[![Twitter Follow](https://img.shields.io/twitter/follow/saivittalb.svg?style=social)](https://twitter.com/saivittalb) 
-
 <p align="center"><img src="https://firebasestorage.googleapis.com/v0/b/poised-elf-275018.appspot.com/o/logo.png?alt=media&token=80d1d621-b2cc-4a0d-8672-b6da83485d86" height="300" width="300"></p> 
 
 An Android based contact tracing app which enables people to self-isolate if they have been in close proximity to someone tested positive for COVID-19. The app uses a combination of Wi-Fi, Bluetooth, BluetoothLE and ultrasonic modem to communicate a unique-in-time pairing code between devices (using the Nearby Messages Google API). This technology can be scaled beyond the demo to work on iOS as well. Furthermore the solution can be embedded in other existing applications as a library to have larger adoption of the contact tracer.
@@ -14,8 +11,6 @@ Available in Dark and Light themes. Themes are pre-chosen depending on the user 
 
 ## License
 This project is licensed under the Apache License 2.0, a permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code. Trademark use is also strictly prohibited. Any material found which vandalises or threatens any sort of plagiarism will be strictly given a legal action.
-
-<p align="center"> Copyright (c) 2020 Sai Vittal B. All rights reserved.</p>
 
 ## Preview
 
@@ -119,8 +114,3 @@ $ git push origin
 ```
 - Create a Pull Request by clicking the ```New pull request``` button on your repository page.
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/saivittalb/) 
-[![ForTheBadge powered-by-electricity](http://ForTheBadge.com/images/badges/powered-by-electricity.svg)](http://ForTheBadge.com)
-
-<p align="center"> Copyright (c) 2020 Sai Vittal B. All rights reserved.</p>
-<p align="center"> Made with ❤ by <a href="https://github.com/saivittalb">Sai Vittal B</a></p>
